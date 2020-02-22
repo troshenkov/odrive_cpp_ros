@@ -27,7 +27,7 @@ $ echo $ROS_PACKAGE_PATH
 ```sh 
 $ cd ~/catkin_ws/src
 $ git clone git@github.com:troshenkov/odrive_cpp_ros.git
-cd ~/catkin_ws/
+$ cd ~/catkin_ws/
 $ catkin_make
 $ catkin_make install
 ```
