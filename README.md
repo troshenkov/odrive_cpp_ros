@@ -9,7 +9,7 @@ $ sudo apt-get install ros-melodic-catkin
 $ source /opt/ros/melodic/setup.bash
 ```
 
-[Catkin workspace layout:] (http://wiki.ros.org/catkin/workspaces)
+[Catkin workspace layout](http://wiki.ros.org/catkin/workspaces)
 
 ```sh
 $ mkdir -p ~/catkin_ws/src
